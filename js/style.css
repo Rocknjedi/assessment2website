@@ -1,0 +1,55 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.cat{
+    max-width: 20%;
+    max-height: 20%;
+    position: relative;
+    left: 100vh
+}
+.ryzen7{
+    max-width: 40vh;
+    max-height: 20vh;
+    position: relative;
+}
+table{
+    width:100vw;
+    border:1px solid blue;
+    border-collapse:collapse;
+    background-color:#A2B5CD;
+    font-size:15px;
+    font-weight:normal;
+    line-height:2em"
+}
+td{
+    width:100vw;
+    border:1px solid blue;
+    border-collapse:collapse;
+    background-color:#A2B5CD;
+    font-size:15px;
+    font-weight:normal;
+    line-height:2em"
+}
+th{
+    width:100vw;
+    border:1px solid blue;
+    border-collapse:collapse;
+    background-color:#A2B5CD;
+    font-size:15px;
+    font-weight:normal;
+    line-height:2em"
+}
+.Intel{
+    max-width: 20vh;
+    max-height: 10vh;
+    position: relative;
+}
+li {
+    display: inline;
+}
+@media screen and (max-width: 400px) {
+    li{
+        display:block;
+    }
+}
